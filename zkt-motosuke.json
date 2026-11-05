@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 265,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-motosuke-0001",
@@ -3754,7 +3757,7 @@
   "blocks": 265,
   "chars": 6186,
   "poems": 265,
-  "yaku": 0,
+  "yaku": 265,
   "editions": 1,
   "updated": "2026-11-05",
   "updated_at": "2026-11-05T03:18:46+09:00"
